@@ -1,0 +1,17 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Jeff's awesome website
+
+![](images/room.jpg)
+Link to a website [google](https://www.google.com/)
+
+Link to internal webpage [about](about.html)
+
+Get an image
+<img src="images/room.jpg" style="width:75%">
