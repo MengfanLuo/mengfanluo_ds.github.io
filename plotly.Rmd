@@ -1,9 +1,9 @@
 ---
-title: "My awesome website"
+title: "plotly"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# This is the about page
+# This is the about plotly example
